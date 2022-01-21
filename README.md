@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arhansenfs
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning FamiilySearch development environment
+- 🌱 I’m currently learning FamilySearch development environment
 - 💞️ I’m looking to collaborate on tbd
 - 📫 How to reach me arhansen@familysearch.org
 
